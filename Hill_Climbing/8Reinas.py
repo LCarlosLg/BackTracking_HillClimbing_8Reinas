@@ -128,3 +128,4 @@ if __name__ == "__main__":
 
         except ValueError:
             print("Entrada no válida. Intente de nuevo con un número entero.")
+#Profe agrego esta parte, por que en los comentarios del anterior push, no puse que fue lo que agregue 
